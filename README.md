@@ -6,3 +6,6 @@ We are going to:
 1. Try to find all the ranked charts in everyone's device and put them all togther!
 2. To make an automatic (or at least convenient) chart importing program.
 3. Make this community better!
+
+IF YOU ACCIDENTALLY FOUND THIS RESPITORY, PLEASE GO THERE TO CONTRIBUTE:
+https://github.com/EDTA-gif/dynamite-charts-repository
